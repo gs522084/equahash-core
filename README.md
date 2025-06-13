@@ -70,7 +70,7 @@ We are solving the core problems in the PoW field:
 
 3. 
 
-- Clearly guide users on how to participate:
+
 
 ```markdown
 
