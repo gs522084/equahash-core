@@ -68,7 +68,7 @@ We are solving the core problems in the PoW field:
 | Mobile phones cannot participate | WASM light node + dynamic power consumption control |
 ```
 
-3. **Call to action (CTA)**
+3. 
 
 - Clearly guide users on how to participate:
 
@@ -82,8 +82,8 @@ We are solving the core problems in the PoW field:
 3. Join [Discord discussion](https://discord.gg/xxx)
 ```
 
-4. **Data visualization** (optional)
-Use ASCII charts to show technical advantages:
+4. 
+
 ```markdown
 ## 📊 Comparison of computing power distribution (simulated data)
 Bitcoin |██████████░░░░| 65% top10% miners
